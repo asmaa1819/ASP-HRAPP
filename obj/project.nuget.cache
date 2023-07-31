@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0A3OIkMgXNwk+M7/QFp6/nigRea5TKs+WgbW9DQmXSrSRVV1WIB9T+Kem+g8xRtDuCt5+8RNcT5k4wl7DnHKzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\connect\\source\\repos\\HRApplication\\HRApplication\\HRApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\connect\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\connect\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\connect\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\connect\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
